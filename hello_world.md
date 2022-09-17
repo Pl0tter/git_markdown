@@ -30,3 +30,8 @@
     * Вложенный
 * Второй
 * Третий
+
+## Список литературы
+
+1. [Wikipedia](https://ru.wikipedia.org/wiki/Markdown "Markdown")
+2. [Руководство по оформлению](https://gist.github.com/Jekins/2bf2d0638163f1294637 "github")
